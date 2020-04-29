@@ -1,9 +1,3 @@
-<h1 align="center">
-<br>
-  <img src="https://svgshare.com/i/G_S.svg" alt="TinDev" width="120">
-<br>
-<br>
-
 <p align="center">Github Explorer</p>
 
 ![](video.gif)
