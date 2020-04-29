@@ -1,6 +1,6 @@
 <p align="center">Github Explorer</p>
 
-![](video.gif)
+<p align="center">![](video.gif)</p>
 
 
 <hr />
